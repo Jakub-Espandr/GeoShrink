@@ -55,7 +55,7 @@ GeoShrink is a lightweight tool for fast conversion of GeoTIFF raster files to P
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/Jakub-Espandr/geoshrink.git
+git clone https://github.com/Jakub-Espandr/GeoShrink.git
 cd geoshrink
 ```
 
@@ -109,7 +109,7 @@ geoshrink/
 This project is licensed under the **Non-Commercial Public License (NCPL v1.0)**  
 © 2025 Jakub Ešpandr - Born4FLight, FlyCamCzech
 
-See the [LICENSE](https://github.com/Jakub-Espandr/geoshrink/raw/main/LICENSE) file for full terms.
+See the [LICENSE](https://github.com/Jakub-Espandr/GeoShrink/raw/main/LICENSE) file for full terms.
 
 ---
 
