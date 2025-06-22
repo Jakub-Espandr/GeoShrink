@@ -52,29 +52,21 @@ GeoShrink is a lightweight tool for fast conversion of GeoTIFF raster files to P
 
 ---
 
-## 🚀 Installation
+## 🚀 Quick Start
 
 ```bash
+# Clone the repository
 git clone https://github.com/Jakub-Espandr/GeoShrink.git
-cd geoshrink
-```
+cd GeoShrink
 
-Create a virtual environment (optional but recommended):
-
-```bash
+# (Optional but recommended) Create a virtual environment
 python -m venv venv
 source venv/bin/activate    # On Windows: venv\Scripts\activate
-```
 
-Install required Python libraries:
-
-```bash
+# Install dependencies
 pip install -r requirements.txt
-```
 
-Run the application:
-
-```bash
+# Run the application
 python main.py
 ```
 
@@ -93,7 +85,7 @@ python main.py
 ## 📁 Project Structure
 
 ```
-geoshrink/
+GeoShrink/
 ├── main.py                  # Entry point
 ├── assets/
 │   ├── icons/              # Application icons
