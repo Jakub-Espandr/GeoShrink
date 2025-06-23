@@ -7,6 +7,13 @@
 <h1 align="center">GeoShrink – GeoTIFF Compressor</h1>
 <p align="center"><em>(Born4Flight | FlyCamCzech | Jakub Ešpandr)</em></p>
 
+<p align="center">
+  <a href="https://ibb.co/9mCrN8rX">
+    <img src="https://i.ibb.co/0pdGcDGN/Geo-Shrink.png" alt="UAV AreaCalc Geo-Shrink Interface" width="50%"/>
+  </a>
+</p>
+
+
 ## Overview
 GeoShrink is a lightweight tool for fast conversion of GeoTIFF raster files to PNG format, with optional resizing to reduce resolution or file size. Designed for geospatial workflows where sharing or previewing large imagery (e.g. from UAV, satellite, or remote sensing) requires more compact formats.
 
